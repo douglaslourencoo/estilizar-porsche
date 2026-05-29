@@ -3,7 +3,7 @@
 
 ## 📊 Visão Geral
 
-Este projeto consiste na criação de uma interface web estilizada inspirada no design da Porsche, com foco em **UI moderna, responsiva e visual de alto impacto**.
+Este projeto consiste na criação de uma interface web TOTALMENTE ESTILIZAVEL inspirada no design da Porsche, com foco em **UI moderna, responsiva e visual de alto impacto**.
 
 O objetivo é explorar conceitos de **design visual, front-end e experiência do usuário (UX/UI)** aplicando uma estética premium baseada em marcas automotivas de luxo.
 
